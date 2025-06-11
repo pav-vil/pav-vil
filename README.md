@@ -5,11 +5,11 @@
 
 // About me //
 
-- ⭐ Self-taught ⭐ 
-- 🐱‍🏍 Python Student, C++
-- 🦉Learning using this courses [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+XX subs)
-- ✏️ Tools [CursoKotlin](https://cursokotlin.com)
-- 💻 Learning in public [AppCademy](https://appcademy.dev)
+- ⭐ Self-taught Sharing my Journey ⭐ 
+- 🐱‍🏍 Student: Python, C++
+- 🦉Learning using this courses [Udemy](https://www.udemy.com/course/100-days-of-code/?couponCode=KEEPLEARNING) , [Codecademy](https://www.codecademy.com/catalog/language/c-plus-plus?g_network=g&g_productchannel=&g_adid=518718870684&g_locinterest=&g_keyword=learn%20c%2B%2B%20free&g_acctid=243-039-7011&g_adtype=&g_keywordid=kwd-375799138533&g_ifcreative=&g_campaign=account&g_locphysical=9209989&g_adgroupid=102650142713&g_productid=&g_source={sourceid}&g_merchantid=&g_placement=&g_partition=&g_campaignid=10074200771&g_ifproduct=&utm_id=t_kwd-375799138533:ag_102650142713:cp_10074200771:n_g:d_c&utm_source=google&utm_medium=paid-search&utm_term=learn%20c%2B%2B%20free&utm_campaign=ROW_Language:_Basic_-_Exact&utm_content=518718870684&g_adtype=search&g_acctid=243-039-7011&gad_source=1&gad_campaignid=10074200771&gbraid=0AAAAAon8KZHloUjbXhoxt_bvLVnutGpBX&gclid=CjwKCAjwr5_CBhBlEiwAzfwYuD1tUAZuQTIMbKqVHJNa_oq59075eANgzNNakHCiKLPcfaHBzTcYSRoCvMQQAvD_BwE) , [edX](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+- ✏️ Tools [Pycharm](https://www.jetbrains.com/pycharm/)
+- 💻 Learning in public [Youtube](https://appcademy.dev)
 <br>
 
 ## Project Portafolio
