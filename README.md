@@ -11,11 +11,10 @@
 // About me //
 
 - ⭐ Coding ⭐ 
-- 📲  Python Student
-- 🎥 Learning using this courses [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+96k subs)
+- 🐱‍🏍 Python Student
+- 🦉Learning using this courses [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+96k subs)
 - ✏️ Tools [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🧑‍🏫 Creator [AppCademy](https://appcademy.dev)
 <br>
 
 ## Project Portafolio
