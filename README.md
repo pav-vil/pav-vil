@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://aristi.dev">Paulo, from Escape Route</a> 👋</h1>
 </div>
-![Generated Image](https://github.com/pav-vil/pav-vil/blob/main/generated-image.png?raw=true)
+![RisingCode](https://raw.githubusercontent.com/pav-vil/pav-vil/main/risingcode.png)
 
 // 💫 About me //
 
