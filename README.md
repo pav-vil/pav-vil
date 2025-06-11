@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello, I'm <a href="https://aristi.dev">Paulo, from Escape Route</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+![Banner!](https://github.com/pav-vil/pav-vil/blob/4052e8650c5b939affc7af19d4436f47b22600ac/generated-image.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://www.youtube.com/@gamerperspectiv)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
